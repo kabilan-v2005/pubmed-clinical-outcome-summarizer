@@ -1,0 +1,23 @@
+[
+  {
+    "id": "PMID:349281",
+    "title": "Efficacy of Drug X in severe cardiac failure.",
+    "abstract": "We tested 500 patients. The drug worked in 40% of cases but caused nausea.",
+    "authors": [
+      "Smith, J",
+      "Doe, A"
+    ],
+    "clinical_outcome": null,
+    "error": "Local inference failed after 3 attempts: HTTPConnectionPool(host='192.168.1.100', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<HTTPConnection(host='192.168.1.100', port=8000) at 0x2c67db95310>, 'Connection to 192.168.1.100 timed out. (connect timeout=5)'))"
+  },
+  {
+    "id": "8829102",
+    "title": "Untitled study",
+    "abstract": "Null hypothesis rejected. No significant improvement noted in cohort B vs placebo.",
+    "authors": [
+      "Unknown"
+    ],
+    "clinical_outcome": null,
+    "error": "Local inference failed after 3 attempts: HTTPConnectionPool(host='192.168.1.100', port=8000): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<HTTPConnection(host='192.168.1.100', port=8000) at 0x2c67d2e3e30>, 'Connection to 192.168.1.100 timed out. (connect timeout=5)'))"
+  }
+]
